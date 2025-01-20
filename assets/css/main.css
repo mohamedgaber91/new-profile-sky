@@ -280,6 +280,10 @@ h3.wel {
 ---------------------------------*/
 .w-img img {
   width: 100%;
+ 
+}
+.w-img-g img {
+  width: 100%;
   height: 600px;
 }
 
