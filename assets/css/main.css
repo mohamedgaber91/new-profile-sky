@@ -4125,8 +4125,11 @@ blockquote cite::before {
     line-height: 2;
     /* margin: auto; */
     padding: -7px;
-    text-align: center;
     }
+    .bd-slider__content p {
+      font-size: 15px;
+
+  }
     .bd-btn {
   
       padding: 12px 56px 12px 35px;
