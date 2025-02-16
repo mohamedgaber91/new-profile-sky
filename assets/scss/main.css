@@ -96,7 +96,6 @@ body {
   font-weight: normal;
   color: var(--bd-text-body);
   line-height: 26px;
-  background-color: red;
 }
 
 a {
@@ -1741,7 +1740,7 @@ input[type=color] {
   }
 }
 .bd-slider__title {
-  font-size: 72px;
+  font-size: 25px;
   color: var(--bd-common-black);
   text-transform: uppercase;
   line-height: 1.2;
@@ -1757,7 +1756,7 @@ input[type=color] {
 }
 @media (max-width: 575px) {
   .bd-slider__title {
-    font-size: 45px;
+    font-size: 25px;
   }
 }
 .bd-slider__content p {
