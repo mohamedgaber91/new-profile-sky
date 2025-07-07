@@ -1583,8 +1583,7 @@ h3.wel {
 }
 @media (max-width: 575px), only screen and (min-width: 576px) and (max-width: 767px), only screen and (min-width: 768px) and (max-width: 991px) {
   .bd-header__main {
-    padding-top: 25px;
-    padding-bottom: 25px;
+
   }
 }
 .bd-header__main.header-sticky {
